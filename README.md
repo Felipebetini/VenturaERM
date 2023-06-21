@@ -39,12 +39,16 @@ The combination of my front-end web development skills, involvement in cyber inv
 Please feel free to reach out to me for any further inquiries or if you require additional information.
 
 ### Screenshots:
-[Screencast from 2023-06-21 16-16-18.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/504957a0-ca83-4587-a797-5a15aafd5997)
 
-[Screencast from 2023-06-21 16-17-39.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/c1ef467d-fa24-431e-ab24-78eb7cca9e96)
+[Screencast from 2023-06-21 16-16-18.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/5638ccfe-0ecc-40c2-a5bf-aefeea0466f8)
 
-[Screencast from 2023-06-21 16-13-47.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/9de9cd7f-67bf-47a9-a42a-b369b096006d)
+[Screencast from 2023-06-21 16-17-39.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/c3193f8c-0e12-40e7-9793-3c07fe3cb9ec)
 
-[Screencast from 2023-06-21 16-15-00.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/b72e4999-4743-42ed-b336-bee100cc1f13)
+[Screencast from 2023-06-21 16-13-47.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/480b3a82-a3cb-40f3-b239-77444f2c36c8)
 
-![dashboardAnimated](https://github.com/Felipebetini/VenturaERM/assets/54918415/25b0a1fa-0a37-451c-af4a-dda1c6a93f78)
+[Screencast from 2023-06-21 16-15-00.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/d8c41aaa-549c-4b1f-8b12-c457a1598f1d)
+
+![dashboardAnimated](https://github.com/Felipebetini/VenturaERM/assets/54918415/affe907c-bf9e-4454-943f-7dadf9f6b357)
+
+
+
