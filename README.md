@@ -38,7 +38,7 @@ The combination of my front-end web development skills, involvement in cyber inv
 
 Please feel free to reach out to me for any further inquiries or if you require additional information.
 
-### Screenshot:
+### Screenshots:
 [Screencast from 2023-06-21 16-16-18.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/504957a0-ca83-4587-a797-5a15aafd5997)
 
 [Screencast from 2023-06-21 16-17-39.webm](https://github.com/Felipebetini/VenturaERM/assets/54918415/c1ef467d-fa24-431e-ab24-78eb7cca9e96)
